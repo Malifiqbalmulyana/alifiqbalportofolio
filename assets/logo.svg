@@ -1,0 +1,20 @@
+<!-- Save this as logo.svg or paste directly in your HTML -->
+<svg viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background shape -->
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2563eb"/>
+      <stop offset="100%" style="stop-color:#f97316"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Code bracket icon -->
+  <text x="5" y="42" font-family="monospace" font-size="36" font-weight="bold" fill="url(#logoGradient)">&lt;/&gt;</text>
+  
+  <!-- Name text -->
+  <text x="55" y="32" font-family="'Segoe UI', Tahoma, sans-serif" font-size="22" font-weight="700" fill="#0f172a">Alif</text>
+  <text x="55" y="48" font-family="'Segoe UI', Tahoma, sans-serif" font-size="14" font-weight="400" fill="#64748b" letter-spacing="2">IQBAL</text>
+  
+  <!-- Decorative dot -->
+  <circle cx="115" cy="24" r="3" fill="#f97316"/>
+</svg>
