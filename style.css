@@ -302,6 +302,11 @@ header .logo {
 }
 
 /* About Section */
+.about{
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
 .about-content {
     display: flex;
     gap: 50px;
@@ -323,6 +328,11 @@ header .logo {
 }
 
 /* Skills Section */
+.skills{
+        padding-top: 2%;
+        padding-bottom: 3%;
+}
+
 .skills-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -354,6 +364,10 @@ header .logo {
 }
 
 /* Projects Section */
+.projects{
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
@@ -414,6 +428,10 @@ header .logo {
 }
 
 /* Contact Section */
+.contact{
+    padding-top: 2%;
+}
+
 .contact-container {
     display: flex;
     gap: 50px;
